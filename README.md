@@ -22,4 +22,4 @@
 
 ---
 
-📫 **Reach me:** shwethanayaka24@email@gmail.com
+📫 **Reach me:** shwethanayaka24@gmail.com
