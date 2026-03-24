@@ -16,9 +16,10 @@
 ---
 
 ### 📂 Projects
-- 📈 Customer Churn Analysis
-- 🛒 E-commerce Sales Dashboard
+- 📈Financial Analysis
+- 🛒 Sales adventure works Analysis
 - 🏭 Hospitality Analysis
+- 
 
 ---
 
